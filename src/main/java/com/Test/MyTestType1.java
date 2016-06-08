@@ -18,6 +18,7 @@ public class MyTestType1 extends FireFoxDriverClass {
         startBrowser();
     }
 
+    
     @Test
     public void Login(){
 

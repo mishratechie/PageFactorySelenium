@@ -16,6 +16,7 @@ public class FireFoxDriverClass {
     private static File pathToBinary = new File("C:\\Programs\\Firefox2\\firefox.exe");
     public static FirefoxDriver driver;
 
+    
 
     protected  void startBrowser(){
 
