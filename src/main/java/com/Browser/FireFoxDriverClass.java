@@ -6,9 +6,8 @@ import org.openqa.selenium.firefox.FirefoxProfile;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
-
 /**
- * Created by amishra4 on 12/14/2015.
+ * Created by Ashutosh Mishra
  */
 public class FireFoxDriverClass {
 

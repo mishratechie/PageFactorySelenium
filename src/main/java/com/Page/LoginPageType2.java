@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 /**
- * Created by amishra4 on 2/25/2016.
+ * Created by Ashutosh Mishra
  */
 public class LoginPageType2 extends FireFoxDriverClass{
 

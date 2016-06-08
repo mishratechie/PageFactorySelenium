@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 /**
- * Created by amishra4 on 6/3/2016.
+ * Created by Ashutosh Mishra
  */
 public class MyTestType1 extends FireFoxDriverClass {
 
