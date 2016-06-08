@@ -20,7 +20,6 @@ public class LoginPageType1{
     @FindBy(id="PasswordID")
     public static WebElement password;
 
-    
     @FindBy(id="signin")
     public static WebElement signin;
 

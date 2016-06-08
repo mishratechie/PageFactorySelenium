@@ -19,7 +19,6 @@ public class LoginPageType2 extends FireFoxDriverClass{
         PageFactory.initElements(driver, this);
 
     }
-    
 
     @FindBy(id="input_0")
     public static WebElement username;

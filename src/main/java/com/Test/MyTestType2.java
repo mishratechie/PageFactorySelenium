@@ -24,8 +24,6 @@ public class MyTestType2 extends FireFoxDriverClass {
     @Test
     public void Login(){
 
-    	
-
         navigateTo("Your URL");
 
         LoginPageType2 loginPageType2= new LoginPageType2(driver);
